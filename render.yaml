@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Thumbnail-Extractor-Bot-render
+    name: Auto-Approve-Bot-render
     runtime: docker
     plan: free
     envVars:
@@ -9,4 +9,12 @@ services:
       - key: API_HASH
         sync: false
       - key: BOT_TOKEN
+        sync: false
+      - key: MONGO_URI
+        sync: false
+      - key: CHID
+        sync: false
+      - key: FSUB
+        sync: false
+      - key: SUDO
         sync: false
