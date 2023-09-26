@@ -11,6 +11,12 @@
 <a href="https://heroku.com/deploy?template=https://github.com/ImDenuwan/Auto-Approve-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
 </details>
 
+<details><summary>📌 Deploy to Render </summary>
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/indru-dudez/Auto-Approve-bot)
+</details>
+
+
 <details><summary>📌 Deploy to Railway </summary>
   
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/w7jSPk)
