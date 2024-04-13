@@ -1,11 +1,13 @@
 {
-    "name": "Telegram",
-    "description": "A Telegram bot based on Pyrogram",
+    "name": "Auto Approove Bot",
+    "description": "Auto approove telegram group/channel join requests bot.",
     "keywords": [
-      "telegram",
-      "pyrogram"
+        "Bot",
+        "Telegram ",
+        "Pyrogram "
     ],
-    "website": "https://github.com/Abbasxan/anonchatbot"
-    "repository": "https://github.com/Abbasxan/anonchatbot",
+    
+    "repository": "https://github.com/ImDenuwan/Auto-Approve-Bot",
+    "logo":"https://telegra.ph/file/a782e3bbbe40df8a4bb67.jpg",   
     "stack": "container"
 }
